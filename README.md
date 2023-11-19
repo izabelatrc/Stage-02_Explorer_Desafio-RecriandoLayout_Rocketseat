@@ -1,4 +1,6 @@
-# Desafio Recriando Layout
+# Desafio Recriando Layout | Rocketseat
+
+Desafio para recriar layout de uma página pronta no Figma.
 
 Link Figma: 
 https://www.figma.com/file/MyBzkn3Gmm4GIyquLmlee9/Projeto01-Extra-Copy?fuid=1208768396357570027
